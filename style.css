@@ -1,0 +1,13 @@
+.body-content{
+    margin: 50px; 
+    font-family: sans-serif;
+}
+.text{
+    float: right;
+}
+.sections{
+    background:#5D6D7E;
+}
+.list-style{
+    list-style-type: none;
+}
